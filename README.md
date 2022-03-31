@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# NFT sample
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Playing around with how to mint ERC721 (NFT). This project uses svg data stored completely on chain. The data itself is actually some adjectives I'd use to describe myself. Mint some NFTs to find out more about me
 
 Try running some of the following tasks:
 
